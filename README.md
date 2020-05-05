@@ -1,0 +1,1 @@
+在vs上运行knn识别mnist数据集
